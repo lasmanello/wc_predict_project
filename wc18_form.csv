@@ -1,0 +1,161 @@
+Team,Opp,Result,G_1,G_2,Elo_1,Elo_2,Shots_1,Shots_2
+Russia,New Zeland,3,2,0,1693,1524,14,5
+Russia,Portugal,1,0,1,1693,1994,3,9
+Russia,Mexico,1,2,1,1693,1848,10,9
+Russia,Brazil,1,0,3,1693,2118,9,18
+Russia,France,1,1,3,1693,1983,6,9
+Egypt,Cameroon,1,1,2,1670,1618,4,15
+Egypt,Uganda,1,0,1,1670,1498,8,7
+Egypt,Uganda,3,1,0,1670,1498,12,4
+Egypt,Congo Rep,3,2,1,1670,1577,17,8
+Egypt,Ghana,2,1,1,1670,1593,21,5
+Morocco,Egypt,1,0,1,1602,1670,16,6
+Morocco,Mali,3,6,0,1602,1551,13,4
+Morocco,Mali,2,0,0,1602,1551,10,9
+Morocco,Gabon,3,3,0,1602,1458,20,2
+Morocco,Ivory Coast,3,2,0,1602,1720,8,7
+Portugal,Mexico,3,2,1,1930,1911,15,10
+Portugal,Faroe,3,5,1,1930,1296,25,6
+Portugal,Hungary,3,1,0,1930,1691,24,8
+Portugal,Andorra,3,2,0,1930,956,20,1
+Portugal,Switzerland,3,2,0,1930,1857,9,6
+France,Sweden,1,1,2,2009,1768,15,7
+France,Netherlands,3,4,0,2009,1889,20,5
+France,Luxembourg,2,0,0,2009,1243,24,3
+France,Bulgaria,3,1,0,2009,1586,10,7
+France,Belarus,3,2,1,2009,1588,13,12
+Argentina,Bolivia,1,0,2,2045,1633,15,10
+Argentina,Uruguay,2,0,0,2045,1915,10,8
+Argentina,Venezuela,2,1,1,2045,1683,21,7
+Argentina,Peru,2,0,0,2045,1834,22,2
+Argentina,Ecuador,3,3,1,2045,1850,13,9
+Peru,Ecuador,3,2,1,1834,1850,16,10
+Peru,Colombia,2,1,1,1834,1929,9,9
+Peru,Argentina,2,0,0,1834,2045,2,22
+Peru,New Zeland,2,0,0,1834,1524,11,5
+Peru,New Zeland,3,2,0,1834,1524,7,3
+Croatia,Turkey,1,0,1,1886,1785,12,8
+Croatia,Finland,2,1,1,1886,1540,20,11
+Croatia,Ukraine,3,2,0,1886,1769,7,8
+Croatia,Greece,3,4,1,1886,1653,17,7
+Croatia,Greece,2,0,0,1886,1653,6,8
+Costa Rica,USA,1,0,2,1854,1735,8,9
+Costa Rica,USA,3,2,0,1854,1735,9,14
+Costa Rica,Mexico,2,1,1,1854,1911,15,13
+Costa Rica,Honduras,2,1,1,1854,1563,6,11
+Costa Rica,Panama,1,1,2,1854,1689,5,15
+Germany,Chile,3,1,0,2038,1982,6,13
+Germany,Czech Republic,3,2,1,2038,1698,11,17
+Germany,Norway,3,6,0,2038,1576,28,8
+Germany,Northern Ireland,3,3,1,2038,1647,12,8
+Germany,Azerbaijan,3,5,1,2038,1424,22,7
+Brazil,Paraguay,3,3,0,2118,1702,23,2
+Brazil,Ecuador,3,2,0,2118,1850,16,6
+Brazil,Colombia,2,1,1,2118,1929,13,10
+Brazil,Bolivia,2,0,0,2118,1633,20,9
+Brazil,Chile,3,3,0,2118,1982,15,8
+Sweden,Belarus,3,4,0,1768,1588,15,8
+Sweden,Luxembourg,3,8,0,1768,1243,22,5
+Sweden,Netherlands,1,0,2,1768,1889,5,21
+Sweden,Italy,3,1,0,1768,1943,8,10
+Sweden,Italy,2,0,0,1768,1943,27,4
+Belgium,Estonia,3,2,0,1906,1439,27,3
+Belgium,Gibraltar,3,9,0,1906,1097,38,4
+Belgium,Greece,3,2,1,1906,1653,10,7
+Belgium,Bosnia,3,4,3,1906,1755,22,15
+Belgium,Cyprus,3,4,0,1906,1406,16,3
+Tunisia,Burkina Faso,1,0,2,1591,1508,11,12
+Tunisia,Congo Rep,3,2,1,1591,1577,14,7
+Tunisia,Congo Rep,2,2,2,1591,1577,18,9
+Tunisia,Guinea,3,4,1,1591,1495,15,4
+Tunisia,Libya,2,0,0,1591,1468,18,6
+Colombia,Ecuador,3,2,0,1929,1850,8,7
+Colombia,Venezuela,2,0,0,1929,1683,14,12
+Colombia,Brazil,2,1,1,1929,2118,10,13
+Colombia,Paraguay,1,1,2,1929,1702,13,10
+Colombia,Peru,2,1,1,1929,1834,9,9
+Poland,Romania,3,3,1,1851,1681,9,11
+Poland,Denmark,1,0,4,1851,1717,11,14
+Poland,Kazakhstan,3,3,0,1851,1406,20,8
+Poland,Armenia,3,6,1,1851,1502,14,9
+Poland,Montenegro,3,4,2,1851,1597,10,10
+Saudi Arabia,Thailand,3,3,0,1577,1420,5,5
+Saudi Arabia,Iraq,3,1,0,1577,1471,5,7
+Saudi Arabia,Australia,1,2,3,1577,1709,10,9
+Saudi Arabia,UAE,1,1,2,1577,1583,12,9
+Saudi Arabia,Japan,3,1,0,1577,1753,10,12
+Uruguay,Peru,1,1,2,1915,1834,12,20
+Uruguay,Argentina,2,0,0,1915,2045,8,10
+Uruguay,Paraguay,3,2,1,1915,1702,9,11
+Uruguay,Venezuela,2,0,0,1915,1683,12,14
+Uruguay,Bolivia,3,4,2,1915,1633,22,6
+Iran,Qatar,3,1,0,1774,1577,15,10
+Iran,China,3,1,0,1774,1522,13,5
+Iran,Uzbekistan,3,2,0,1774,1666,10,3
+Iran,South Korea,2,0,0,1774,1788,6,8
+Iran,Syria,2,1,2,1774,1544,18,13
+Spain,North Macedonia,3,2,1,1979,1402,19,5
+Spain,Italy,3,3,0,1979,1943,12,8
+Spain,Liechtenstein,3,8,0,1979,1180,28,1
+Spain,Albania,3,3,0,1979,1580,28,14
+Spain,Israel,3,1,0,1979,1627,14,8
+Australia,Japan,1,0,2,1709,1753,5,18
+Australia,Syria,2,1,1,1709,1544,14,16
+Australia,Thailand,3,2,1,1709,1420,45,8
+Australia,Honduras,2,0,0,1709,1563,7,5
+Australia,Honduras,3,3,1,1709,1563,13,8
+Iceland,Croatia,3,1,0,1766,1886,10,8
+Iceland,Finland,1,0,1,1766,1540,15,11
+Iceland,Ukraine,3,2,0,1766,1769,11,13
+Iceland,Turkey,3,3,0,1766,1785,16,9
+Iceland,Kosovo,3,2,0,1766,1393,10,9
+Denmark,Armenia,3,4,1,1717,1502,14,10
+Denmark,Montenegro,3,1,0,1717,1597,9,11
+Denmark,Romania,2,1,1,1717,1681,14,8
+Denmark,Ireland,2,0,0,1717,1801,14,8
+Denmark,Ireland,3,5,1,1717,1801,18,11
+Nigeria,Cameroon,3,4,0,1669,1618,11,8
+Nigeria,Cameroon,2,1,1,1669,1618,11,6
+Nigeria,Zambia,3,1,0,1669,1443,11,12
+Nigeria,Zambia,3,1,0,1669,1443,11,12
+Nigeria,Algeria,2,0,0,1669,1633,11,10
+Serbia,Wales,2,1,1,1726,1760,16,8
+Serbia,Moldova,3,3,0,1726,1341,20,6
+Serbia,Ireland,3,1,0,1726,1801,8,17
+Serbia,Austria,1,2,3,1726,1685,8,21
+Serbia,Georgia,3,1,0,1726,1473,17,7
+Mexico,Jamaica,1,0,1,1911,1515,10,8
+Mexico,Panama,3,1,0,1911,1689,11,12
+Mexico,Costa Rica,2,1,1,1911,1854,13,15
+Mexico,Trinidad,3,3,1,1911,1489,24,8
+Mexico,Honduras,1,2,3,1911,1563,16,15
+Switzerland,Latvia,3,3,0,1857,1415,22,4
+Switzerland,Hungary,3,5,2,1857,1691,16,9
+Switzerland,Portugal,1,0,2,1857,1930,9,6
+Switzerland,Northern Ireland,3,1,0,1857,1647,16,5
+Switzerland,Northern Ireland,2,0,0,1857,1647,18,12
+South Korea,China,1,0,1,1788,1522,8,9
+South Korea,Syria,3,1,0,1788,1544,10,7
+South Korea,Qatar,1,2,3,1788,1577,16,14
+South Korea,Iran,2,0,0,1788,1774,8,6
+South Korea,Uzbekistan,2,0,0,1788,1666,19,11
+Panama,Costa Rica,1,0,1,1689,1854,9,7
+Panama,Mexico,1,0,1,1689,1911,12,11
+Panama,Trinidad,3,3,0,1689,1489,16,9
+Panama,USA,1,0,4,1689,1735,9,15
+Panama,Costa Rica,3,2,1,1689,1854,2,1
+England,Scotland,2,2,2,1929,1671,16,8
+England,Malta,3,4,0,1929,1215,15,4
+England,Slovakia,3,2,1,1929,1753,23,5
+England,Slovenia,3,1,0,1929,1653,17,5
+England,Lithuania,3,1,0,1929,1464,20,9
+Japan,UAE,3,2,0,1753,1583,10,6
+Japan,Thailand,3,4,0,1753,1420,13,14
+Japan,Iraq,2,1,1,1753,1471,8,8
+Japan,Australia,3,2,0,1753,1709,18,5
+Japan,Saudi Arabia,1,0,1,1753,1577,12,10
+Senegal,Burkina Faso,2,0,0,1673,1508,10,8
+Senegal,Burkina Faso,2,2,2,1673,1508,7,9
+Senegal,Cape Verde,3,2,0,1673,1433,12,5
+Senegal,South Africa,3,2,0,1673,1615,5,13
+Senegal,South Africa,3,2,1,1673,1615,14,11
