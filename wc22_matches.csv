@@ -1,49 +1,49 @@
-Round;Group;Team_A;Team_B;xG_Pre_A;xG_Pre_B
-Group 1;A;Qatar;Ecuador;1.13;1.75
-Group 1;B;England;Iran;1.7;0.58
-Group 1;A;Senegal;Netherlands;0.99;1.63
-Group 1;B;USA;Wales;1.42;1.01
-Group 1;C;Argentina;Saudi Arabia;2.11;0.54
-Group 1;D;Denmark;Tunisia;1.44;0.82
-Group 1;C;Mexico;Poland;1.37;1.06
-Group 1;D;France;Australia;2.09;0.65
-Group 1;F;Morocco;Croatia;1.18;1.34
-Group 1;E;Germany;Japan;2.14;1.06
-Group 1;E;Spain;Costa Rica;2.19;0.44
-Group 1;F;Belgium;Canada;1.68;1.12
-Group 1;G;Switzerland;Cameroon;1.53;0.92
-Group 1;H;Uruguay;South Korea;1.52;0.8
-Group 1;H;Portugal;Ghana;2.0;0.56
-Group 1;G;Brazil;Serbia;2.11;0.72
-Group 2;B;Wales;Iran;1.09;0.98
-Group 2;A;Qatar;Senegal;1.07;1.74
-Group 2;A;Netherlands;Ecuador;1.73;1.0
-Group 2;B;England;USA;1.59;0.91
-Group 2;D;Tunisia;Australia;1.18;0.95
-Group 2;C;Poland;Saudi Arabia;1.48;0.99
-Group 2;D;France;Denmark;1.53;1.04
-Group 2;C;Argentina;Mexico;1.56;0.81
-Group 2;E;Japan;Costa Rica;1.52;0.86
-Group 2;F;Belgium;Morocco;1.57;1.23
-Group 2;F;Croatia;Canada;1.44;1.08
-Group 2;E;Spain;Germany;1.58;1.34
-Group 2;G;Cameroon;Serbia;1.01;1.52
-Group 2;H;South Korea;Ghana;1.2;0.92
-Group 2;G;Brazil;Switzerland;1.96;0.73
-Group 2;H;Portugal;Uruguay;1.42;1.02
-Group 3;A;Netherlands;Qatar;2.84;0.76
-Group 3;A;Ecuador;Senegal;1.08;1.15
-Group 3;B;Wales;England;0.69;1.75
-Group 3;B;Iran;USA;0.87;1.38
-Group 3;D;Australia;Denmark;0.79;1.7
-Group 3;D;Tunisia;France;0.67;1.78
-Group 3;C;Saudi Arabia;Mexico;0.81;1.59
-Group 3;C;Poland;Argentina;0.74;1.83
-Group 3;F;Canada;Morocco;1.12;1.31
-Group 3;F;Croatia;Belgium;1.35;1.53
-Group 3;E;Costa Rica;Germany;0.59;2.59
-Group 3;E;Japan;Spain;0.74;1.87
-Group 3;H;South Korea;Portugal;0.73;1.92
-Group 3;H;Ghana;Uruguay;0.62;1.59
-Group 3;G;Cameroon;Brazil;0.36;2.37
-Group 3;G;Serbia;Switzerland;1.29;1.41
+Round,Group,Team_A,Team_B,xG_Pre_A,xG_Pre_B
+Group 1,A,Qatar,Ecuador,1.13,1.75
+Group 1,B,England,Iran,1.7,0.58
+Group 1,A,Senegal,Netherlands,0.99,1.63
+Group 1,B,USA,Wales,1.42,1.01
+Group 1,C,Argentina,Saudi Arabia,2.11,0.54
+Group 1,D,Denmark,Tunisia,1.44,0.82
+Group 1,C,Mexico,Poland,1.37,1.06
+Group 1,D,France,Australia,2.09,0.65
+Group 1,F,Morocco,Croatia,1.18,1.34
+Group 1,E,Germany,Japan,2.14,1.06
+Group 1,E,Spain,Costa Rica,2.19,0.44
+Group 1,F,Belgium,Canada,1.68,1.12
+Group 1,G,Switzerland,Cameroon,1.53,0.92
+Group 1,H,Uruguay,South Korea,1.52,0.8
+Group 1,H,Portugal,Ghana,2.0,0.56
+Group 1,G,Brazil,Serbia,2.11,0.72
+Group 2,B,Wales,Iran,1.09,0.98
+Group 2,A,Qatar,Senegal,1.07,1.74
+Group 2,A,Netherlands,Ecuador,1.73,1.0
+Group 2,B,England,USA,1.59,0.91
+Group 2,D,Tunisia,Australia,1.18,0.95
+Group 2,C,Poland,Saudi Arabia,1.48,0.99
+Group 2,D,France,Denmark,1.53,1.04
+Group 2,C,Argentina,Mexico,1.56,0.81
+Group 2,E,Japan,Costa Rica,1.52,0.86
+Group 2,F,Belgium,Morocco,1.57,1.23
+Group 2,F,Croatia,Canada,1.44,1.08
+Group 2,E,Spain,Germany,1.58,1.34
+Group 2,G,Cameroon,Serbia,1.01,1.52
+Group 2,H,South Korea,Ghana,1.2,0.92
+Group 2,G,Brazil,Switzerland,1.96,0.73
+Group 2,H,Portugal,Uruguay,1.42,1.02
+Group 3,A,Netherlands,Qatar,2.84,0.76
+Group 3,A,Ecuador,Senegal,1.08,1.15
+Group 3,B,Wales,England,0.69,1.75
+Group 3,B,Iran,USA,0.87,1.38
+Group 3,D,Australia,Denmark,0.79,1.7
+Group 3,D,Tunisia,France,0.67,1.78
+Group 3,C,Saudi Arabia,Mexico,0.81,1.59
+Group 3,C,Poland,Argentina,0.74,1.83
+Group 3,F,Canada,Morocco,1.12,1.31
+Group 3,F,Croatia,Belgium,1.35,1.53
+Group 3,E,Costa Rica,Germany,0.59,2.59
+Group 3,E,Japan,Spain,0.74,1.87
+Group 3,H,South Korea,Portugal,0.73,1.92
+Group 3,H,Ghana,Uruguay,0.62,1.59
+Group 3,G,Cameroon,Brazil,0.36,2.37
+Group 3,G,Serbia,Switzerland,1.29,1.41

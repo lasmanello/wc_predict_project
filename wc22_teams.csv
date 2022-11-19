@@ -1,33 +1,33 @@
-Team;SPI;Elo_Points
-Qatar;51.0;1680
-England;85.96;1920
-Senegal;73.84;1687
-USA;74.83;1798
-Argentina;87.21;2143
-Denmark;80.02;1971
-Mexico;74.3;1809
-France;87.71;2005
-Morocco;75.62;1766
-Germany;88.77;1963
-Spain;89.51;2048
-Belgium;82.49;2007
-Switzerland;77.65;1902
-Uruguay;80.9;1936
-Portugal;87.77;2006
-Brazil;93.55;2169
-Ecuador;72.74;1833
-Iran;62.17;1797
-Netherlands;86.01;2040
-Wales;65.58;1790
-Saudi Arabia;56.87;1635
-Tunisia;65.85;1707
-Poland;68.28;1814
-Australia;60.83;1719
-Croatia;78.84;1927
-Japan;71.44;1787
-Costa Rica;55.46;1743
-Canada;71.59;1776
-Cameroon;64.16;1610
-South Korea;66.12;1786
-Ghana;58.63;1567
-Serbia;75.84;1898
+Team,SPI,Elo_Points
+Qatar,51.0,1680
+England,85.96,1920
+Senegal,73.84,1687
+USA,74.83,1798
+Argentina,87.21,2143
+Denmark,80.02,1971
+Mexico,74.3,1809
+France,87.71,2005
+Morocco,75.62,1766
+Germany,88.77,1963
+Spain,89.51,2048
+Belgium,82.49,2007
+Switzerland,77.65,1902
+Uruguay,80.9,1936
+Portugal,87.77,2006
+Brazil,93.55,2169
+Ecuador,72.74,1833
+Iran,62.17,1797
+Netherlands,86.01,2040
+Wales,65.58,1790
+Saudi Arabia,56.87,1635
+Tunisia,65.85,1707
+Poland,68.28,1814
+Australia,60.83,1719
+Croatia,78.84,1927
+Japan,71.44,1787
+Costa Rica,55.46,1743
+Canada,71.59,1776
+Cameroon,64.16,1610
+South Korea,66.12,1786
+Ghana,58.63,1567
+Serbia,75.84,1898
