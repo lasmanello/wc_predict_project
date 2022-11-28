@@ -15,35 +15,35 @@ Group 1,G,Switzerland,Cameroon,1,0,A,1.53,0.92,77.65,64.16,7,8,1.0,0.61
 Group 1,H,Uruguay,South Korea,0,0,D,1.52,0.8,80.9,66.12,10,7,0.48,0.4
 Group 1,H,Portugal,Ghana,3,2,A,2.0,0.56,87.77,58.63,11,9,1.89,0.52
 Group 1,G,Brazil,Serbia,2,0,A,2.11,0.72,93.55,75.84,22,5,1.48,0.18
-Group 2,B,Wales,Iran,,,,1.2,1.01,67.64,63.33,,,,
-Group 2,A,Qatar,Senegal,,,,0.96,1.66,48.16,73.23,,,,
-Group 2,A,Netherlands,Ecuador,,,,1.55,0.95,86.07,74.37,,,,
-Group 2,B,England,USA,,,,1.73,0.94,86.26,72.63,,,,
-Group 2,D,Tunisia,Australia,,,,1.24,0.88,66.48,58.65,,,,
-Group 2,C,Poland,Saudi Arabia,,,,1.38,0.97,68.14,59.01,,,,
-Group 2,D,France,Denmark,,,,1.6,0.96,89.25,78.87,,,,
-Group 2,C,Argentina,Mexico,,,,1.45,0.8,86.09,73.48,,,,
-Group 2,E,Japan,Costa Rica,,,,1.66,0.82,71.98,51.99,,,,
-Group 2,F,Belgium,Morocco,,,,1.41,1.18,80.54,74.67,,,,
-Group 2,F,Croatia,Canada,,,,1.29,1.05,78.46,73.84,,,,
-Group 2,E,Spain,Germany,,,,1.72,1.28,91.22,88.73,,,,
-Group 2,G,Cameroon,Serbia,,,,0.94,1.39,63.62,74.55,,,,
-Group 2,H,South Korea,Ghana,,,,1.15,0.89,66.44,60.03,,,,
-Group 2,G,Brazil,Switzerland,,,,1.84,0.65,93.66,77.52,,,,
-Group 2,H,Portugal,Uruguay,,,,1.37,1.0,87.3,79.7,,,,
-Group 3,A,Netherlands,Qatar,,,,2.77,0.65,86.07,48.16,,,,
-Group 3,A,Ecuador,Senegal,,,,1.05,1.0,74.37,73.23,,,,
-Group 3,B,Wales,England,,,,0.99,1.39,63.33,72.63,,,,
-Group 3,B,Iran,USA,,,,0.79,1.76,67.64,86.26,,,,
-Group 3,D,Australia,Denmark,,,,0.76,1.72,58.65,78.87,,,,
-Group 3,D,Tunisia,France,,,,0.64,1.8,66.48,89.25,,,,
-Group 3,C,Saudi Arabia,Mexico,,,,0.81,1.46,59.01,73.48,,,,
-Group 3,C,Poland,Argentina,,,,0.74,1.7,68.14,86.09,,,,
-Group 3,F,Canada,Morocco,,,,1.32,1.35,78.46,80.54,,,,
-Group 3,F,Croatia,Belgium,,,,1.09,1.16,73.84,74.67,,,,
-Group 3,E,Costa Rica,Germany,,,,0.56,2.76,51.99,88.73,,,,
-Group 3,E,Japan,Spain,,,,0.71,2.01,71.98,91.22,,,,
-Group 3,H,South Korea,Portugal,,,,0.63,1.49,60.03,79.7,,,,
-Group 3,H,Ghana,Uruguay,,,,0.74,1.8,66.44,87.3,,,,
-Group 3,G,Cameroon,Brazil,,,,0.29,2.26,63.62,93.66,,,,
-Group 3,G,Serbia,Switzerland,,,,1.16,1.33,74.55,77.52,,,,
+Group 2,B,Wales,Iran,0,2,B,1.2,1.01,67.64,63.33,10,21,0.9,1.43
+Group 2,A,Qatar,Senegal,1,3,B,0.96,1.66,48.16,73.23,10,13,0.94,0.75
+Group 2,A,Netherlands,Ecuador,1,1,D,1.55,0.95,86.07,74.37,2,15,0.07,0.8
+Group 2,B,England,USA,0,0,D,1.73,0.94,86.26,72.63,8,10,0.62,0.52
+Group 2,D,Tunisia,Australia,0,1,B,1.16,0.96,66.48,58.65,14,9,0.89,0.5
+Group 2,C,Poland,Saudi Arabia,2,0,A,1.3,1.05,68.14,59.01,9,16,1.73,2.17
+Group 2,D,France,Denmark,2,1,A,1.6,0.96,89.25,78.87,21,10,2.06,0.5
+Group 2,C,Argentina,Mexico,2,0,A,1.45,0.8,86.09,73.48,5,4,0.26,0.18
+Group 2,E,Japan,Costa Rica,0,1,B,1.74,0.74,71.98,51.99,13,4,0.7,0.14
+Group 2,F,Belgium,Morocco,0,2,B,1.41,1.18,80.54,74.67,10,10,0.88,0.48
+Group 2,F,Croatia,Canada,4,1,A,1.29,1.05,78.46,73.84,13,8,1.56,0.37
+Group 2,E,Spain,Germany,1,1,D,1.72,1.28,91.22,88.73,7,11,0.57,0.91
+Group 2,G,Cameroon,Serbia,3,3,D,0.94,1.39,63.62,74.55,13,15,0.91,1.2
+Group 2,H,South Korea,Ghana,2,3,B,1.23,0.81,66.44,60.03,22,7,1.56,0.51
+Group 2,G,Brazil,Switzerland,1,0,A,1.84,0.65,93.66,77.52,13,6,1.46,0.27
+Group 2,H,Portugal,Uruguay,2,0,A,1.37,1.0,87.3,79.7,15,11,1.42,1.18
+Group 3,A,Netherlands,Qatar,,,,2.6,0.65,84.38,48.46,,,,
+Group 3,A,Ecuador,Senegal,,,,1.06,0.92,75.82,73.0,,,,
+Group 3,B,Wales,England,,,,0.7,1.72,65.17,85.41,,,,
+Group 3,B,Iran,USA,,,,1.04,1.18,69.26,72.55,,,,
+Group 3,D,Australia,Denmark,,,,0.85,1.56,62.45,77.68,,,,
+Group 3,D,Tunisia,France,,,,0.6,1.82,65.92,90.15,,,,
+Group 3,C,Saudi Arabia,Mexico,,,,0.86,1.34,62.01,72.44,,,,
+Group 3,C,Poland,Argentina,,,,0.71,1.64,68.95,86.03,,,,
+Group 3,F,Canada,Morocco,,,,0.99,1.21,71.52,74.99,,,,
+Group 3,F,Croatia,Belgium,,,,1.38,1.24,80.87,79.44,,,,
+Group 3,E,Costa Rica,Germany,,,,0.5,2.55,52.9,88.86,,,,
+Group 3,E,Japan,Spain,,,,0.71,1.79,73.68,90.62,,,,
+Group 3,H,South Korea,Portugal,,,,0.86,1.84,70.35,87.55,,,,
+Group 3,H,Ghana,Uruguay,,,,0.68,1.57,60.5,79.28,,,,
+Group 3,G,Cameroon,Brazil,,,,0.31,2.29,64.48,93.48,,,,
+Group 3,G,Serbia,Switzerland,,,,1.18,1.36,74.72,77.0,,,,
